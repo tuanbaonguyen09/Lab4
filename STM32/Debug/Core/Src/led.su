@@ -1,0 +1,4 @@
+led.c:15:6:get_timer	16	static
+led.c:21:6:update7SEG	8	static
+led.c:40:6:display7SEG	16	static
+led.c:76:6:display7SEG_ex	16	static
